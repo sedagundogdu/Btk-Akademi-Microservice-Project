@@ -3,4 +3,5 @@
 * Microservice mimarisi
 * RabbitMQ
 * API Gateway Ocelot
+  
 kullanılmıştır.
